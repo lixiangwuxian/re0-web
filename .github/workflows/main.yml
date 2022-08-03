@@ -29,8 +29,8 @@ jobs:
           git config --global user.name 'lixiangwuxian'
           git config --global user.email 'lixiangwuxian@users.noreply.github.com'
           git pull --unshallow
-          git remote add upstream
-          git fetch upstream https://github.com/lyy289065406/re0-web.git
+          git remote add upstream https://github.com/lyy289065406/re0-web.git
+          git fetch upstream
           
           git checkout -b feature/x origin/feature/x
           git merge --no-edit upstream/feature/x
