@@ -31,10 +31,6 @@ jobs:
           git pull --unshallow
           git remote add upstream https://github.com/lyy289065406/re0-web.git
           git fetch upstream
-          
-          git checkout -b feature/x origin/feature/x
-          git merge --no-edit upstream/feature/x
-          git push origin feature/x
 
           git checkout master
           git merge --no-edit upstream/master
