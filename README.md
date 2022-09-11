@@ -25,48 +25,23 @@
 > 因为是非强制性赞助，收入是随缘的，所以不要对其有过高期望，并不建议你以赚钱为目的参与到这个过程（一般也赚不了多少，几分钱是常事，毕竟是读者自愿的）
 
 
-
-<details>
-<summary>《顺便的公告：对某些恶意抹黑我的人的回应》</summary>
-<br/>
-
-最近发现某些人一直抹黑我，说我以敛财为目的做了这个项目，理由竟然是我在文章末尾附加了二维码？
-
-我一直没回应就怂恿别人以各种渠道给我留言，真是幼稚好笑，好像他说了的话别人就必须要看、必须要回复。
-
-我本来也忙就懒得回应，但是看到很多人被他带偏了，就统一回复下：
-
-1. 赞助的二维码只是项目模板生成的，并不赚钱，如果 0.01~10/月 也算赚钱的话，当我没说
-2. 不想赞助的完全可以不赞助，你的待遇和赞助了的同学完全是一样的，没人强迫你，别拿赞助来说事，做过开源的都知道赞助并不赚钱
-3. 想要被赞助的同学，现在可以参与到 PR 润色活动获取资格，也顺便亲身体验下我说的“盈利数额”是否为可信
-4. 承诺翻译进度尽量与原作保持同步（有时忙起来可能慢了几天），但润色不保证同步（毕竟平时工作实在太忙），有空才会做内容润色
-5. 做这个项目纯粹用爱发电，讲到底主要是为了方便我自己看才整理的，做着做着就顺便开源给大家看
-6. 无论任何人赞不赞助、关不关注、分不分享，都与我无关，请自便，我工作稳定收入来源不依靠这里，并不会因为任何人的某个行为我就违背初衷
-
-> 我不像某些以盈利为目的人，因为我断了其财路、就以断更要挟读者站在我的对立面，大部分读者竟然还被带偏了？讲真这种行为真的幼稚（又不是原作者有什么资格说断更？），我就呵呵一笑不理你。
-<br/>有些托不知前因后果，为了起哄说他自己每次都赞助了几十一百的，我怎么没收到？这么不愿意赞助，你给我发转账记录、我给你转回去呗，你的几分钱会吃胖不成？！但是就请你别厚颜无耻地白嫖了，麻烦请拉黑我谢谢，一边抹黑我一边还收藏这个项目，什么心态？吃相这么难看？我整理这个项目已经费心费力了，懒得和你较劲。
-
-</details>
-
-
-
 ## 内容预览
 
 <details>
 <summary>展开查看</summary>
 <br/>
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/00.png)
+![](./imgs/00.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/15.png)
+![](./imgs/15.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/01.png)
+![](./imgs/01.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/09.png)
+![](./imgs/09.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/11.png)
+![](./imgs/11.png)
 
-![](https://github.com/lyy289065406/re0-web/blob/master/img/14.png)
+![](./imgs/14.png)
 
 </details>
 
@@ -82,32 +57,32 @@
 
 | MJ 文库版 | 封面 | 下载 | 对应 WEB 版范围 |
 |:-----:|:-----:|:-----:|:-----|
-| EPUB<br/>第 01 卷 | <img width="120" src="gitbook/res/img/article/chapter010/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-01.epub)<br/>[腾讯微云](https://share.weiyun.com/5S7FiHt)<br/>（58x6se） | <ul><li><b>起</b>：【第一章】 序章 『开始的余温』</li><li><b>止</b>：【第一章】 幕間 『月亮都看在眼里』</li></ul> |
-| EPUB<br/>第 02 卷 | <img width="120" src="gitbook/res/img/article/chapter020/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-02.epub)<br/>[腾讯微云](https://share.weiyun.com/5k9usYI)<br/>（ra9hx6） | <ul><li><b>起</b>：【第二章】 序章 『赎罪的开端』</li><li><b>止</b>：【第二章】 28 『觉悟与告白』</li></ul> |
-| EPUB<br/>第 03 卷 | <img width="120" src="gitbook/res/img/article/chapter020/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-03.epub)<br/>[腾讯微云](https://share.weiyun.com/5eR3OG8)<br/>（cetnhi） | <ul><li><b>起</b>：【第二章】 29 『菜月昴的重新开始』</li><li><b>止</b>：【第二章】 幕間 『月下的密谈』</li></ul> |
-| EPUB<br/>第 04 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-04.epub)<br/>[腾讯微云](https://share.weiyun.com/50zxDU7)<br/>（k9fjee） | <ul><li><b>起</b>：【第三章】 01 『安稳的早上』</li><li><b>止</b>：【第三章】 幕間 『骑士们的疑惑』</li></ul> |
-| EPUB<br/>第 05 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-d.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-05.epub)<br/>[腾讯微云](https://share.weiyun.com/5k6EpPn)<br/>（e5pwkb） | <ul><li><b>起</b>：【第三章】 26 『被侵蚀的精神』</li><li><b>止</b>：【第三章】 40 『杀机的里侧』</li></ul> |
-| EPUB<br/>第 06 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-f.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-06.epub)<br/>[腾讯微云](https://share.weiyun.com/5kvtT2I)<br/>（if4cii） | <ul><li><b>起</b>：【第三章】 41 『幼稚的交涉』</li><li><b>止</b>：【第三章】 53 『被配给的手牌』</li></ul> |
-| EPUB<br/>第 07 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-07.epub)<br/>[腾讯微云](https://share.weiyun.com/5Z8IhLY)<br/>（6ta7yu） | <ul><li><b>起</b>：【第三章】 54 『同盟交渉』</li><li><b>止</b>：【第三章】 62 『過去与未来一起清算』</li></ul> |
-| EPUB<br/>第 08 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-j.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-08.epub)<br/>[腾讯微云](https://share.weiyun.com/525IGNF)<br/>（nwkf2t） | <ul><li><b>起</b>：【第三章】 63 『怠惰一閃』</li><li><b>止</b>：【第三章】 74 『履行的契约』</li></ul><br/><i>（这卷改动极大，文库版 几乎把 WEB版 重写了）</i> |
-| EPUB<br/>第 09 卷 | <img width="120" src="gitbook/res/img/article/chapter030/00-l.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-09.epub)<br/>[腾讯微云](https://share.weiyun.com/58II9x7)<br/>（93epcz） | <ul><li><b>起</b>：【第三章】 75 『再会x推迟x逆转的契机』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> |
-| EPUB<br/>第 10 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-10.epub)<br/>[腾讯微云](https://share.weiyun.com/5lgZZWi)<br/>（q6vthg） | <ul><li><b>起</b>：【第四章】 序章 『坟墓』</li><li><b>止</b>：【第四章】 23 『迈出的一步』</li></ul> |
-| EPUB<br/>第 11 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-11.epub)<br/>[腾讯微云](https://share.weiyun.com/5fUUQWw)<br/>（a6f3u3） | <ul><li><b>起</b>：【第四章】 24 『等待』</li><li><b>止</b>：【第四章】 50 『远处处的吼声』</li></ul> |
-| EPUB<br/>第 12 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-f.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-12.epub)<br/>[腾讯微云](https://share.weiyun.com/5rWaSSx)<br/>（3bgs6p） | <ul><li><b>起</b>：【第四章】 51 『LOVELOVELOVE……LOVELOVELOVEME–』</li><li><b>止</b>：【第四章】 77 『孤身一人的……』</li></ul> |
-| EPUB<br/>第 13 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-13.epub)<br/>[腾讯微云](https://share.weiyun.com/5KxGNw9)<br/>（mt8kjq） | <ul><li><b>起</b>：【第四章】 78 『欲哭的声音』</li><li><b>止</b>：【第四章】 117 『情信』</li></ul> |
-| EPUB<br/>第 14 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-j.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-14.epub)<br/>[腾讯微云](https://share.weiyun.com/569d2I4)<br/>（tppyrw） | <ul><li><b>起</b>：【第四章】 118 『平家星笑的日子』</li><li><b>止</b>：【第四章】 122 『咆哮的再会』</li></ul> |
-| EPUB<br/>第 15 卷 | <img width="120" src="gitbook/res/img/article/chapter040/00-k.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-15.epub)<br/>[腾讯微云](https://share.weiyun.com/5nx8OoV)<br/>（4pmsxb） | <ul><li><b>起</b>：【第四章】 123 『猎肠者VS圣域之盾』</li><li><b>止</b>：【第四章】 蛇足 『再临』</li></ul> |
-| EPUB<br/>第 16 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-16.epub)<br/>[腾讯微云](https://share.weiyun.com/5sX0q7P)<br/>（9qsp4y） | <ul><li><b>起</b>：【第五章】 01 『事情的起头总是由到访者开始』</li><li><b>止</b>：【第五章】 20 『共相高涨的情绪』</li></ul> |
-| EPUB<br/>第 17 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-17.epub)<br/>[腾讯微云](https://share.weiyun.com/54yiuf6)<br/>（dw5txm） | <ul><li><b>起</b>：【第五章】 21 『最佳的解法』</li><li><b>止</b>：【第五章】 36 『爱的起点与终点』</li></ul> |
-| EPUB<br/>第 18 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-e.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-18.epub) | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul> |
-| EPUB<br/>第 19 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-g.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-19.epub) | <ul><li><b>起</b>：【第五章】 49 『强欲攻略战开幕』</li><li><b>止</b>：【第五章】 59 『雷格鲁斯·柯尼亚斯』</li></ul> |
-| EPUB<br/>第 20 卷 | <img width="120" src="gitbook/res/img/article/chapter050/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-20.epub) | <ul><li><b>起</b>：【第五章】 60 『一波方平，一波又起』</li><li><b>止</b>：【第五章】 幕間 『温暖的名字』</li></ul> |
-| EPUB<br/>第 21 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-21.epub) | <ul><li><b>起</b>：【第六章】 01 『龙车归途路』</li><li><b>止</b>：【第六章】 18 『砂塔的看守者』</li></ul> |
-| EPUB<br/>第 22 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-c.jpg"> | - | <ul><li><b>起</b>：【第六章】 19 『贤者的行踪』</li><li><b>止</b>：【第六章】 33 『■■■・■■■』</li></ul> |
-| EPUB<br/>第 23 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-e.jpg"> | - | <ul><li><b>起</b>：【第六章】 34 『出了便利店后，那是一个不可思议的世界』</li><li><b>止</b>：【第六章】 54 『Re：从零开始的异世界生活』</li></ul> |
-| EPUB<br/>第 24 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-g.jpg"> | - | <ul><li><b>起</b>：【第六章】 55 『等待雪融的你』</li><li><b>止</b>：【第六章】 71 『Count・One』</li></ul> |
-| EPUB<br/>第 25 卷 | <img width="120" src="gitbook/res/img/article/chapter060/00-i.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-25.epub) | <ul><li><b>起</b>：【第六章】 72 『■■・■』</li><li><b>止</b>：【第六章】 90 『英雄』</li></ul> |
-| EPUB<br/>第 26 卷 | <img width="120" src="gitbook/res/img/article/chapter070/00-a.jpg"> | - | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
+| EPUB<br/>第 01 卷 | <img width="120" src="gitbook/res/imgs/article/chapter010/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-01.epub)<br/>[腾讯微云](https://share.weiyun.com/5S7FiHt)<br/>（58x6se） | <ul><li><b>起</b>：【第一章】 序章 『开始的余温』</li><li><b>止</b>：【第一章】 幕間 『月亮都看在眼里』</li></ul> |
+| EPUB<br/>第 02 卷 | <img width="120" src="gitbook/res/imgs/article/chapter020/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-02.epub)<br/>[腾讯微云](https://share.weiyun.com/5k9usYI)<br/>（ra9hx6） | <ul><li><b>起</b>：【第二章】 序章 『赎罪的开端』</li><li><b>止</b>：【第二章】 28 『觉悟与告白』</li></ul> |
+| EPUB<br/>第 03 卷 | <img width="120" src="gitbook/res/imgs/article/chapter020/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-03.epub)<br/>[腾讯微云](https://share.weiyun.com/5eR3OG8)<br/>（cetnhi） | <ul><li><b>起</b>：【第二章】 29 『菜月昴的重新开始』</li><li><b>止</b>：【第二章】 幕間 『月下的密谈』</li></ul> |
+| EPUB<br/>第 04 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-04.epub)<br/>[腾讯微云](https://share.weiyun.com/50zxDU7)<br/>（k9fjee） | <ul><li><b>起</b>：【第三章】 01 『安稳的早上』</li><li><b>止</b>：【第三章】 幕間 『骑士们的疑惑』</li></ul> |
+| EPUB<br/>第 05 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-d.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-05.epub)<br/>[腾讯微云](https://share.weiyun.com/5k6EpPn)<br/>（e5pwkb） | <ul><li><b>起</b>：【第三章】 26 『被侵蚀的精神』</li><li><b>止</b>：【第三章】 40 『杀机的里侧』</li></ul> |
+| EPUB<br/>第 06 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-f.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-06.epub)<br/>[腾讯微云](https://share.weiyun.com/5kvtT2I)<br/>（if4cii） | <ul><li><b>起</b>：【第三章】 41 『幼稚的交涉』</li><li><b>止</b>：【第三章】 53 『被配给的手牌』</li></ul> |
+| EPUB<br/>第 07 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-07.epub)<br/>[腾讯微云](https://share.weiyun.com/5Z8IhLY)<br/>（6ta7yu） | <ul><li><b>起</b>：【第三章】 54 『同盟交渉』</li><li><b>止</b>：【第三章】 62 『過去与未来一起清算』</li></ul> |
+| EPUB<br/>第 08 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-j.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-08.epub)<br/>[腾讯微云](https://share.weiyun.com/525IGNF)<br/>（nwkf2t） | <ul><li><b>起</b>：【第三章】 63 『怠惰一閃』</li><li><b>止</b>：【第三章】 74 『履行的契约』</li></ul><br/><i>（这卷改动极大，文库版 几乎把 WEB版 重写了）</i> |
+| EPUB<br/>第 09 卷 | <img width="120" src="gitbook/res/imgs/article/chapter030/00-l.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-09.epub)<br/>[腾讯微云](https://share.weiyun.com/58II9x7)<br/>（93epcz） | <ul><li><b>起</b>：【第三章】 75 『再会x推迟x逆转的契机』</li><li><b>止</b>：【第三章】 番外編 『王様』</li></ul> |
+| EPUB<br/>第 10 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-10.epub)<br/>[腾讯微云](https://share.weiyun.com/5lgZZWi)<br/>（q6vthg） | <ul><li><b>起</b>：【第四章】 序章 『坟墓』</li><li><b>止</b>：【第四章】 23 『迈出的一步』</li></ul> |
+| EPUB<br/>第 11 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-11.epub)<br/>[腾讯微云](https://share.weiyun.com/5fUUQWw)<br/>（a6f3u3） | <ul><li><b>起</b>：【第四章】 24 『等待』</li><li><b>止</b>：【第四章】 50 『远处处的吼声』</li></ul> |
+| EPUB<br/>第 12 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-f.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-12.epub)<br/>[腾讯微云](https://share.weiyun.com/5rWaSSx)<br/>（3bgs6p） | <ul><li><b>起</b>：【第四章】 51 『LOVELOVELOVE……LOVELOVELOVEME–』</li><li><b>止</b>：【第四章】 77 『孤身一人的……』</li></ul> |
+| EPUB<br/>第 13 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-13.epub)<br/>[腾讯微云](https://share.weiyun.com/5KxGNw9)<br/>（mt8kjq） | <ul><li><b>起</b>：【第四章】 78 『欲哭的声音』</li><li><b>止</b>：【第四章】 117 『情信』</li></ul> |
+| EPUB<br/>第 14 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-j.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-14.epub)<br/>[腾讯微云](https://share.weiyun.com/569d2I4)<br/>（tppyrw） | <ul><li><b>起</b>：【第四章】 118 『平家星笑的日子』</li><li><b>止</b>：【第四章】 122 『咆哮的再会』</li></ul> |
+| EPUB<br/>第 15 卷 | <img width="120" src="gitbook/res/imgs/article/chapter040/00-k.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-15.epub)<br/>[腾讯微云](https://share.weiyun.com/5nx8OoV)<br/>（4pmsxb） | <ul><li><b>起</b>：【第四章】 123 『猎肠者VS圣域之盾』</li><li><b>止</b>：【第四章】 蛇足 『再临』</li></ul> |
+| EPUB<br/>第 16 卷 | <img width="120" src="gitbook/res/imgs/article/chapter050/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-16.epub)<br/>[腾讯微云](https://share.weiyun.com/5sX0q7P)<br/>（9qsp4y） | <ul><li><b>起</b>：【第五章】 01 『事情的起头总是由到访者开始』</li><li><b>止</b>：【第五章】 20 『共相高涨的情绪』</li></ul> |
+| EPUB<br/>第 17 卷 | <img width="120" src="gitbook/res/imgs/article/chapter050/00-c.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-17.epub)<br/>[腾讯微云](https://share.weiyun.com/54yiuf6)<br/>（dw5txm） | <ul><li><b>起</b>：【第五章】 21 『最佳的解法』</li><li><b>止</b>：【第五章】 36 『爱的起点与终点』</li></ul> |
+| EPUB<br/>第 18 卷 | <img width="120" src="gitbook/res/imgs/article/chapter050/00-e.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-18.epub) | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul> |
+| EPUB<br/>第 19 卷 | <img width="120" src="gitbook/res/imgs/article/chapter050/00-g.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-19.epub) | <ul><li><b>起</b>：【第五章】 49 『强欲攻略战开幕』</li><li><b>止</b>：【第五章】 59 『雷格鲁斯·柯尼亚斯』</li></ul> |
+| EPUB<br/>第 20 卷 | <img width="120" src="gitbook/res/imgs/article/chapter050/00-h.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-20.epub) | <ul><li><b>起</b>：【第五章】 60 『一波方平，一波又起』</li><li><b>止</b>：【第五章】 幕間 『温暖的名字』</li></ul> |
+| EPUB<br/>第 21 卷 | <img width="120" src="gitbook/res/imgs/article/chapter060/00-a.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-21.epub) | <ul><li><b>起</b>：【第六章】 01 『龙车归途路』</li><li><b>止</b>：【第六章】 18 『砂塔的看守者』</li></ul> |
+| EPUB<br/>第 22 卷 | <img width="120" src="gitbook/res/imgs/article/chapter060/00-c.jpg"> | - | <ul><li><b>起</b>：【第六章】 19 『贤者的行踪』</li><li><b>止</b>：【第六章】 33 『■■■・■■■』</li></ul> |
+| EPUB<br/>第 23 卷 | <img width="120" src="gitbook/res/imgs/article/chapter060/00-e.jpg"> | - | <ul><li><b>起</b>：【第六章】 34 『出了便利店后，那是一个不可思议的世界』</li><li><b>止</b>：【第六章】 54 『Re：从零开始的异世界生活』</li></ul> |
+| EPUB<br/>第 24 卷 | <img width="120" src="gitbook/res/imgs/article/chapter060/00-g.jpg"> | - | <ul><li><b>起</b>：【第六章】 55 『等待雪融的你』</li><li><b>止</b>：【第六章】 71 『Count・One』</li></ul> |
+| EPUB<br/>第 25 卷 | <img width="120" src="gitbook/res/imgs/article/chapter060/00-i.jpg"> | [Github](epub/Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB-25.epub) | <ul><li><b>起</b>：【第六章】 72 『■■・■』</li><li><b>止</b>：【第六章】 90 『英雄』</li></ul> |
+| EPUB<br/>第 26 卷 | <img width="120" src="gitbook/res/imgs/article/chapter070/00-a.jpg"> | - | <ul><li><b>起</b>：【第七章】 01 『洗礼』</li><li><b>止</b>：【第七章】 12 『佛拉基亚帝国』</li></ul> |
 
 
 
@@ -120,7 +95,7 @@
 此书籍是利用 [GitBook](https://docs.gitbook.com/) 搭建的，同时兼容在 [Github Pages](https://lyy289065406.github.io/re0-web) 和 [本地（线下）](http://127.0.0.1:4000/) 运行。
 
 > 关于 **本地** 环境的搭建可见 [gitbook-server-docker](https://github.com/lyy289065406/gitbook-server-docker) 的说明
-<br/> 另由于 [`SUMMARY.md`](https://github.com/lyy289065406/re0-web/blob/master/gitbook/SUMMARY.md) 索引量较大，[`build.sh`](https://github.com/lyy289065406/re0-web/blob/master/build.sh)  或 [`build.ps1`](https://github.com/lyy289065406/re0-web/blob/master/build.ps1) 编译一次约需 3 小时，因此要谨慎发布变更
+<br/> 另由于 [`SUMMARY.md`](./gitbook/SUMMARY.md) 索引量较大，[`build.sh`](./bin/build.sh)  或 [`build.ps1`](./bin/build.ps1) 编译一次约需 1 小时，因此要谨慎发布变更
 
 </details>
 
@@ -143,3 +118,4 @@
 - 汉化搬运（Re0 小说站）：[【第七章】](https://ccxxxi.github.io/re0novel/#/) `29 ~ *`
 
 </details>
+
